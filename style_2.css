@@ -1,0 +1,41 @@
+table,th,tr,td{
+    border:3px solid black;
+    border-collapse: collapse;
+    margin: 0 auto;
+    padding: 3px;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+.Pokemon{
+    background-color:rgba(219, 157, 185, 0.758);
+    width: 300px;
+    height: 475px;
+    text-align: center;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 15px;
+    border: 3px solid black;
+}
+.Ice{
+    background-color: rgb(135, 152, 220);
+}
+.Electric{
+    background-color: darksalmon;
+}
+.Poison{
+    background-color:cadetblue;
+}
+.main{
+    text-align: center;
+}
+.heading{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
